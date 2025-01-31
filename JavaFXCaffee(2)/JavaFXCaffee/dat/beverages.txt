@@ -1,0 +1,45 @@
+1
+Rakija travarica
+1.5
+45.0
+DOMESTIC
+2
+Hidra naranča
+2.0
+0.0
+DOMESTIC
+3
+Rakija šljivovica
+1.7999999523162842
+46.0
+DOMESTIC
+4
+Pepsi
+2.0
+0.0
+DOMESTIC
+5
+Orahovica
+2.5
+50.0
+DOMESTIC
+6
+Staropramen
+2.700000047683716
+4.5
+FOREIGN
+7
+Cedevita
+3.0
+0.0
+FOREIGN
+8
+Čaj od šipka
+3.0999999046325684
+0.0
+FOREIGN
+9
+Ožujsko
+1.99
+7
+DOMESTIC
